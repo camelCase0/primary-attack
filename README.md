@@ -10,3 +10,6 @@ $q>12d+8$
 ![alt text](image-1.png)
 
 ### Lower complexity f attack: $T$<sub>3</sub>$=2^{0,292b}$
+
+## Example of work
+![alt text](image.png)
